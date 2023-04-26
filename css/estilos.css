@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 20px;
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.tablauno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+table td{
+    border: 1px solid black;
+    
+}
+
+table img{
+    width: 250px;
+}
+
+table th{
+    border: 1px solid black;
+}
+
+table #uno{
+    width: 200px;
+    margin-left: 0px;
+}
+
+
+table #dos{
+    width: 150px;
+    
+}
+
+table #tres{
+    width: 500px;
+    height: 25px;
+}
+
+.titulouno{
+text-align:center;
+margin: 5px;
+}
+
+.tablados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tablados td{
+   height: 25px;
+   width: 500px;
+}
+
+.tablados #objetodos{
+    height: 200px;
+}
+
+.titulodos{
+    text-align:center;
+    margin: 5px;
+}
+
+.tablatres{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.tablados td{
+    height: 25px;
+    width: 500px;
+ }
+
+ .tablatres #cabeza{
+    background-color: grey;
+ }
+ 
+ .tablatres #invi{
+    color: white;
+ }
+ .tablatres #numero{
+    width: 10px;
+    text-align: center;
+ }
+
+ .tablatres #numeroa{
+    width: 15px;
+    text-align: center;
+ }
+ 
+
+.fin{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.firmas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.firmauno p{
+    text-align: center;
+}
+
+hr{
+    background-color: black;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 200px;
+}
