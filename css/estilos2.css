@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    
+        margin: 20px;
+        border: 1px solid black;
+        margin-left: 300px;
+        margin-right: 300px;
+        
+    
+}
+
+.tablauno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+
+table td{
+    border: 1px solid black;
+    
+}
+
+table img{
+    width: 250px;
+}
+
+.titulouno{
+    text-align: center;
+}
+
+.portada{
+    border: 1px solid black;
+    margin: 100px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.portada h1{
+    margin: 100px;
+}
+
+.tablados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
