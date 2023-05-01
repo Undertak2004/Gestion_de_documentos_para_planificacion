@@ -12,6 +12,10 @@
     
 }
 
+tr{
+    width: 1000px;
+}
+
 .tablauno{
     display: flex;
     justify-content: center;
@@ -55,9 +59,10 @@ margin: 5px;
 }
 
 .tablados{
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+    width: 100%;
     
 }
 
