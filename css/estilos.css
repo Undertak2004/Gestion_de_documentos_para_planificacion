@@ -26,16 +26,39 @@ tr{
 
 table td{
     border: 1px solid black;
-    
+    width: 50px;
+}
+
+#titulo{
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 table img{
     width: 250px;
 }
 
+
+
 table th{
     border: 1px solid black;
+    
 }
+
+#tablauno td{
+    width: 100px;
+}
+
+
+
+#numeral{
+    padding: 0px;
+    width: 0px;
+    text-align: center;
+}
+
+
 
 table #uno{
     width: 200px;
@@ -118,21 +141,9 @@ margin: 5px;
     margin-bottom: 50px;
 }
 
-.firmas{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
-}
 
-.firmauno p{
+
+.textdos{
+    font-weight: 500;
     text-align: center;
-}
-
-hr{
-    background-color: black;
-    margin: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    width: 200px;
 }

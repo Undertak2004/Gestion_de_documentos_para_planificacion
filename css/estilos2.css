@@ -1,56 +1,36 @@
 *{
-    margin: 0;
     padding: 0;
+    margin: 0px;
 }
 
 .container{
-    
-        margin: 0 auto;
-        border: 1px solid black;
-        /* margin-left: 300px;
-        margin-right: 300px; */
-        padding-left: 300px;
-        padding-right: 300px;
-    
+
+    margin: 20px;
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
 }
 
 .tablauno{
+    margin: 0 auto;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
-    text-align: center;
-    margin: 20px;
 }
 
-table td{
+#cabeza{
     border: 1px solid black;
-    
 }
 
-table img{
-    width: 250px;
-}
-
-.titulouno{
-    text-align: center;
-}
-
-.portada{
+#imguno{
+    width: 300px;
     border: 1px solid black;
-    margin: 0 auto;
-    margin-top: 10px;
-    text-align: center;
+    height: 120px;
 }
 
-.portada h1{
-    margin: 0 auto;
+.textodos{
+     text-align: center;
+     border: 1px solid black;
+     margin: 4px;
 }
 
-.tablados{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 20px;
-}
