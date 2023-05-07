@@ -6,6 +6,7 @@
 .container{
     border: 1px solid black;
     margin: 10px;
+    font-weight: 700;
 }
 
  .col{
@@ -22,7 +23,6 @@
     border: 2px solid black;
     text-align: center;
     margin-bottom: 10px;
-    font-weight: 700;
 }
 
 .text-header p{
@@ -38,4 +38,8 @@
 
 .content h1, h2, h4{
     padding: 5px;
+}
+
+.footer{
+  padding: 10px;
 }
