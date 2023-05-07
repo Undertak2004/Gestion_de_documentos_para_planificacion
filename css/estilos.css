@@ -31,6 +31,7 @@ tr{
 table td{
     border: 1px solid black;
     width: 50px;
+    font-weight: 500;
 }
 
 #titulo{
@@ -177,6 +178,7 @@ margin: 10px;
 
 .col p{
     margin-bottom: 0px;
+    font-weight: 500;
 }
 
 .col hr{
