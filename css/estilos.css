@@ -180,8 +180,11 @@ margin: 10px;
 .col p{
     margin-bottom: 0px;
     font-weight: 500;
+    
 }
 
 .col hr{
     margin-bottom: 0px;
+    margin-top: 20px;
+
 }
