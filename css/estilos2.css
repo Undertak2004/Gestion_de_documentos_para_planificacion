@@ -25,6 +25,11 @@
     font-weight: 700;
 }
 
+.text-header p{
+    margin: 0px;
+    padding: 10px;
+}
+
 .content{
     text-align: center;
     border: 2px solid black;
