@@ -13,17 +13,12 @@
 }
 
 #container{
-    /* -webkit-box-shadow: 1px 3px 27px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 1px 3px 27px 0px rgba(0,0,0,0.75);
-box-shadow: 1px 3px 27px 0px rgba(0,0,0,0.75); */
 -webkit-box-shadow: 0px 2px 17px 1px rgba(0,0,0,0.35);
 -moz-box-shadow: 0px 2px 17px 1px rgba(0,0,0,0.35);
 box-shadow: 0px 2px 17px 1px rgba(0,0,0,0.35);
 }
 
-tr{
-    width: 1000px;
-}
+
 
 #imagen img{
     width: 300px;
@@ -50,43 +45,12 @@ table td{
     font-weight: 700;
 }
 
-table img{
-    width: 250px;
-}
-
-
-
 table th{
     border: 1px solid black;
     
 }
 
-#tablauno td{
-    width: 100px;
-}
-
-
-
-#numeral{
-    padding: 0px;
-    width: 0px;
-    text-align: center;
-}
-
-
-
 table #uno{
-    width: 200px;
-    margin-left: 0px;
-}
-
-
-table #dos{
-    width: 150px;
-    
-}
-
-table #tres{
     width: 500px;
     height: 25px;
 }
@@ -98,87 +62,10 @@ margin: 10px;
 
 .titulouno h4{
     font-size: 20px;
-
-}
-
-.tablados{
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-    width: 100%;
-    
-}
-
-.tablados td{
-   height: 25px;
-   width: 500px;
-}
-
-.tablados #objetodos{
-    height: 200px;
-}
-
-.titulodos{
-    text-align:center;
-    margin: 5px;
-}
-
-.tablatres{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* margin: 10px;
-    margin-left: 20px;
-    margin-right: 20px; */
-    text-align: center;
-}
-
-.tablados td{
-    height: 25px;
-    width: 500px;
- }
-
- .tablatres #cabeza{
-    background-color: grey;
- }
- 
- .tablatres #invi{
-    color: white;
- }
- 
- .tablatres #numero{
-    width: 10px;
-    text-align: center;
- }
-
- .tablatres #numeroa{
-    width: 15px;
-    text-align: center;
- }
- 
-
-.fin{
-    text-align: center;
-    margin-bottom: 50px;
-}
-
-
-
-.textdos{
-    font-weight: 500;
-    text-align: center;
 }
 
 .firmas{
     text-align: center;
-}
-
-
-
-.firmauno hr{
-   margin: 0 auto;
-   width: 300px;
-   height: 2px;  
 }
 
 .container.text-center{
@@ -195,5 +82,4 @@ margin: 10px;
 .col hr{
     margin-bottom: 0px;
     margin-top: 20px;
-
 }
